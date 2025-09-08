@@ -15,6 +15,4 @@
 - 🌐 Passionate about **Frontend & Web Development**
 - 🛠️ Currently working with: **HTML** and **CSS**
 
----
-:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+
