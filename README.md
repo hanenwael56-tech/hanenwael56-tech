@@ -15,4 +15,10 @@
 - 🌐 Passionate about **Frontend & Web Development**
 - 🛠️ Currently working with: **HTML** and **CSS**
 
+- <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="65" height="65"/>
+</p>
+
+
 
